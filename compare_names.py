@@ -25,15 +25,19 @@ def normalize_name(name):
 def compare_names(csv_file, db_gamertags):
     """Compare CSV player names with database gamertags."""
     
-    # Read CSV players
+    # Read CSV players (excluding trashed players)
     csv_players = {}
     with open(csv_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
+            slug = row.get('slug', '')
+            # Skip players with slugs containing "__trashed"
+            if '__trashed' in slug:
+                continue
             name = row.get('name', '').strip()
             if name and name != '.':
                 csv_players[name] = {
-                    'slug': row.get('slug', ''),
+                    'slug': slug,
                     'post_id': row.get('post_id', ''),
                     'status': row.get('status', ''),
                 }

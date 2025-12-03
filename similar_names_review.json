@@ -1,5 +1,12 @@
 [
   {
+    "csv_name": "Defensive1stTeam",
+    "db_gamertag": "DefensivelstTeam",
+    "similarity": 93.8,
+    "slug": "defensive1stteam",
+    "post_id": "137263"
+  },
+  {
     "csv_name": "Gohthum",
     "db_gamertag": "Gothum",
     "similarity": 92.3,
@@ -28,11 +35,25 @@
     "post_id": "143421"
   },
   {
+    "csv_name": "DynastyxTay",
+    "db_gamertag": "DynastyxTay2k",
+    "similarity": 91.7,
+    "slug": "dynastyxtay",
+    "post_id": "143574"
+  },
+  {
     "csv_name": "Iuhlocks",
     "db_gamertag": "ILocksy",
     "similarity": 80.0,
     "slug": "iuhlocks",
     "post_id": "143625"
+  },
+  {
+    "csv_name": "kelseypIum",
+    "db_gamertag": "KelseyPlum",
+    "similarity": 90.0,
+    "slug": "kelseypium",
+    "post_id": "143707"
   },
   {
     "csv_name": "llllzllll",
@@ -42,9 +63,30 @@
     "post_id": "143711"
   },
   {
+    "csv_name": "Tonyfrmthe6ix",
+    "db_gamertag": "TonyFrmTheSix",
+    "similarity": 92.3,
+    "slug": "tonyfrmthe6ix",
+    "post_id": "143755"
+  },
+  {
+    "csv_name": "Alsmoovee",
+    "db_gamertag": "Alsmoove",
+    "similarity": 94.1,
+    "slug": "alsmoovee",
+    "post_id": "143774"
+  },
+  {
+    "csv_name": "outxshyne",
+    "db_gamertag": "outyxshyne",
+    "similarity": 94.7,
+    "slug": "outxshyne",
+    "post_id": "143779"
+  },
+  {
     "csv_name": "TvcrZyIq",
-    "db_gamertag": "CrazyIQ",
-    "similarity": 80.0,
+    "db_gamertag": "TtvcrazyIq",
+    "similarity": 88.9,
     "slug": "tvcrzyiq",
     "post_id": "143786"
   },
@@ -56,11 +98,46 @@
     "post_id": "143794"
   },
   {
-    "csv_name": "CPTN HO0K",
-    "db_gamertag": "CPTN HOOK",
-    "similarity": 88.9,
-    "slug": "cptn-ho0k__trashed",
-    "post_id": "124089"
+    "csv_name": "Cassius clay",
+    "db_gamertag": "CassiusClayI",
+    "similarity": 91.7,
+    "slug": "cassius-clay",
+    "post_id": "143815"
+  },
+  {
+    "csv_name": "WavvyXXl",
+    "db_gamertag": "wavvyxxll",
+    "similarity": 94.1,
+    "slug": "wavvyxxl",
+    "post_id": "143828"
+  },
+  {
+    "csv_name": "SlvmmyyXXL",
+    "db_gamertag": "SlvmmyXXL",
+    "similarity": 94.7,
+    "slug": "slvmmyyxxl",
+    "post_id": "143830"
+  },
+  {
+    "csv_name": "Laidbacksv",
+    "db_gamertag": "Laidbacsv",
+    "similarity": 94.7,
+    "slug": "laidbacksv",
+    "post_id": "144006"
+  },
+  {
+    "csv_name": "TiGeR_IRls",
+    "db_gamertag": "TiGeR_lRls",
+    "similarity": 90.0,
+    "slug": "tiger_irls",
+    "post_id": "144083"
+  },
+  {
+    "csv_name": "vmosthd",
+    "db_gamertag": "vMostHtd",
+    "similarity": 93.3,
+    "slug": "vmosthd",
+    "post_id": "144139"
   },
   {
     "csv_name": "Breezsh",
@@ -68,971 +145,5 @@
     "similarity": 85.7,
     "slug": "breezsh",
     "post_id": "144152"
-  },
-  {
-    "csv_name": "DjayTooCold",
-    "db_gamertag": "jayotoocold",
-    "similarity": 90.9,
-    "slug": "djaytoocold__trashed",
-    "post_id": "130134"
-  },
-  {
-    "csv_name": "JmJuggin",
-    "db_gamertag": "JmBuggin",
-    "similarity": 87.5,
-    "slug": "jmjuggin__trashed",
-    "post_id": "133635"
-  },
-  {
-    "csv_name": "Ft_cluth",
-    "db_gamertag": "FT_2clutch",
-    "similarity": 88.9,
-    "slug": "ft_cluth__trashed",
-    "post_id": "137255"
-  },
-  {
-    "csv_name": "Newz757__",
-    "db_gamertag": "New757_",
-    "similarity": 87.5,
-    "slug": "newz757____trashed",
-    "post_id": "137266"
-  },
-  {
-    "csv_name": "DYMEBOYP1O",
-    "db_gamertag": "DYMEBOYP10",
-    "similarity": 90.0,
-    "slug": "dymeboyp1o__trashed",
-    "post_id": "137267"
-  },
-  {
-    "csv_name": "IRobgunna—",
-    "db_gamertag": "IRobgunna-",
-    "similarity": 90.0,
-    "slug": "irobgunna__trashed",
-    "post_id": "137269"
-  },
-  {
-    "csv_name": "Quality",
-    "db_gamertag": "QUALITYERA",
-    "similarity": 82.4,
-    "slug": "quality__trashed",
-    "post_id": "137277"
-  },
-  {
-    "csv_name": "Clampeys",
-    "db_gamertag": "Clampeysll",
-    "similarity": 88.9,
-    "slug": "clampeys__trashed",
-    "post_id": "137289"
-  },
-  {
-    "csv_name": "IzMali-",
-    "db_gamertag": "Izmaili-",
-    "similarity": 93.3,
-    "slug": "izmali__trashed",
-    "post_id": "137293"
-  },
-  {
-    "csv_name": "Paris",
-    "db_gamertag": "xvParis",
-    "similarity": 83.3,
-    "slug": "paris__trashed",
-    "post_id": "137298"
-  },
-  {
-    "csv_name": "Tayynoss",
-    "db_gamertag": "oTaynoss",
-    "similarity": 87.5,
-    "slug": "tayynoss__trashed",
-    "post_id": "137302"
-  },
-  {
-    "csv_name": "icagerl",
-    "db_gamertag": "icageri",
-    "similarity": 85.7,
-    "slug": "icagerl__trashed",
-    "post_id": "137321"
-  },
-  {
-    "csv_name": "Sandroo27_",
-    "db_gamertag": "SANDRO027_",
-    "similarity": 90.0,
-    "slug": "sandroo27___trashed",
-    "post_id": "137336"
-  },
-  {
-    "csv_name": "Grizzly94",
-    "db_gamertag": "lGrizzlyl94",
-    "similarity": 90.0,
-    "slug": "grizzly94__trashed",
-    "post_id": "137339"
-  },
-  {
-    "csv_name": "lKayiso",
-    "db_gamertag": "IKayiso",
-    "similarity": 85.7,
-    "slug": "lkayiso__trashed",
-    "post_id": "137347"
-  },
-  {
-    "csv_name": "lilglizz",
-    "db_gamertag": "lilgliz",
-    "similarity": 93.3,
-    "slug": "lilglizz__trashed",
-    "post_id": "137348"
-  },
-  {
-    "csv_name": "Llselll",
-    "db_gamertag": "lllSEANlll",
-    "similarity": 82.4,
-    "slug": "llselll__trashed",
-    "post_id": "137350"
-  },
-  {
-    "csv_name": "I GramMo I",
-    "db_gamertag": "I GRAMMO 1",
-    "similarity": 90.0,
-    "slug": "i-grammo-i__trashed",
-    "post_id": "137357"
-  },
-  {
-    "csv_name": "XMillybump",
-    "db_gamertag": "MILLYBUMP",
-    "similarity": 94.7,
-    "slug": "xmillybump__trashed",
-    "post_id": "137358"
-  },
-  {
-    "csv_name": "TonyFrmTheSix",
-    "db_gamertag": "Tonyfrmthe6ix",
-    "similarity": 92.3,
-    "slug": "tonyfrmthesix__trashed",
-    "post_id": "137362"
-  },
-  {
-    "csv_name": "Accurings",
-    "db_gamertag": "Acurings",
-    "similarity": 94.1,
-    "slug": "accurings__trashed",
-    "post_id": "137367"
-  },
-  {
-    "csv_name": "lllcblll",
-    "db_gamertag": "lllYClll",
-    "similarity": 87.5,
-    "slug": "lllcblll__trashed",
-    "post_id": "137384"
-  },
-  {
-    "csv_name": "DynastyxTay2k",
-    "db_gamertag": "DynastyxTay",
-    "similarity": 91.7,
-    "slug": "dynastyxtay2k__trashed",
-    "post_id": "137402"
-  },
-  {
-    "csv_name": "lHoodieRoss",
-    "db_gamertag": "IHoodieRoss",
-    "similarity": 90.9,
-    "slug": "lhoodieross__trashed",
-    "post_id": "137407"
-  },
-  {
-    "csv_name": "llllllllRose",
-    "db_gamertag": "llllllllllRose",
-    "similarity": 92.3,
-    "slug": "llllllllrose__trashed",
-    "post_id": "137411"
-  },
-  {
-    "csv_name": "CrestRoxs",
-    "db_gamertag": "CRESTROKS",
-    "similarity": 88.9,
-    "slug": "crestroxs__trashed",
-    "post_id": "137420"
-  },
-  {
-    "csv_name": "Geo3LegTTV",
-    "db_gamertag": "GEOLEGTTV",
-    "similarity": 94.7,
-    "slug": "geo3legttv__trashed",
-    "post_id": "137423"
-  },
-  {
-    "csv_name": "Jmoolahhh",
-    "db_gamertag": "Jmoolahh",
-    "similarity": 94.1,
-    "slug": "jmoolahhh__trashed",
-    "post_id": "137431"
-  },
-  {
-    "csv_name": "Kazio999",
-    "db_gamertag": "KAZI0999",
-    "similarity": 87.5,
-    "slug": "kazio999__trashed",
-    "post_id": "137432"
-  },
-  {
-    "csv_name": "OlljarvisllO",
-    "db_gamertag": "Olijarvisllo",
-    "similarity": 91.7,
-    "slug": "olljarvisllo__trashed",
-    "post_id": "137438"
-  },
-  {
-    "csv_name": "Antdontmiss—",
-    "db_gamertag": "AntDontMiss--",
-    "similarity": 88.0,
-    "slug": "antdontmiss__trashed",
-    "post_id": "137449"
-  },
-  {
-    "csv_name": "loIajj",
-    "db_gamertag": "lolajj",
-    "similarity": 83.3,
-    "slug": "loiajj__trashed",
-    "post_id": "137467"
-  },
-  {
-    "csv_name": "TheReelManny",
-    "db_gamertag": "ReelManny",
-    "similarity": 85.7,
-    "slug": "thereelmanny__trashed",
-    "post_id": "137471"
-  },
-  {
-    "csv_name": "HcxhoG",
-    "db_gamertag": "HxchoG",
-    "similarity": 83.3,
-    "slug": "hcxhog__trashed",
-    "post_id": "137479"
-  },
-  {
-    "csv_name": "II-Mzrda-II",
-    "db_gamertag": "Il-Mzrda-Il",
-    "similarity": 81.8,
-    "slug": "ii-mzrda-ii__trashed",
-    "post_id": "137494"
-  },
-  {
-    "csv_name": "Abluuee",
-    "db_gamertag": "Ablueeee",
-    "similarity": 80.0,
-    "slug": "abluuee__trashed",
-    "post_id": "137504"
-  },
-  {
-    "csv_name": "AjsGreen",
-    "db_gamertag": "AJsGREEEN",
-    "similarity": 94.1,
-    "slug": "ajsgreen__trashed",
-    "post_id": "137511"
-  },
-  {
-    "csv_name": "llclintcapellall",
-    "db_gamertag": "IIClintCapelall",
-    "similarity": 83.9,
-    "slug": "llclintcapellall__trashed",
-    "post_id": "137533"
-  },
-  {
-    "csv_name": "SlvmmyXXL",
-    "db_gamertag": "SlvmmyyXXL",
-    "similarity": 94.7,
-    "slug": "slvmmyxxl__trashed",
-    "post_id": "137548"
-  },
-  {
-    "csv_name": "inshaiLah",
-    "db_gamertag": "inshallahh",
-    "similarity": 84.2,
-    "slug": "inshailah__trashed",
-    "post_id": "137577"
-  },
-  {
-    "csv_name": "Zeebo vv",
-    "db_gamertag": "Zeebo w",
-    "similarity": 80.0,
-    "slug": "zeebo-vv__trashed",
-    "post_id": "137584"
-  },
-  {
-    "csv_name": "Wizdom",
-    "db_gamertag": "Hizdom",
-    "similarity": 83.3,
-    "slug": "wizdom__trashed",
-    "post_id": "137593"
-  },
-  {
-    "csv_name": "IRandomzI",
-    "db_gamertag": "Randomz",
-    "similarity": 87.5,
-    "slug": "irandomzi__trashed",
-    "post_id": "137619"
-  },
-  {
-    "csv_name": "ManeKo21",
-    "db_gamertag": "MANEK021",
-    "similarity": 87.5,
-    "slug": "maneko21__trashed",
-    "post_id": "137647"
-  },
-  {
-    "csv_name": "Vitico_RD19",
-    "db_gamertag": "Vitivo_RD19",
-    "similarity": 90.9,
-    "slug": "vitico_rd19__trashed",
-    "post_id": "137651"
-  },
-  {
-    "csv_name": "CassiusClayI",
-    "db_gamertag": "Cassius clay",
-    "similarity": 91.7,
-    "slug": "cassiusclayi__trashed",
-    "post_id": "137662"
-  },
-  {
-    "csv_name": "Stribbino",
-    "db_gamertag": "Stribino",
-    "similarity": 94.1,
-    "slug": "stribbino__trashed",
-    "post_id": "137680"
-  },
-  {
-    "csv_name": "August l9",
-    "db_gamertag": "August19",
-    "similarity": 82.4,
-    "slug": "august-l9__trashed",
-    "post_id": "137697"
-  },
-  {
-    "csv_name": "RSTLCK",
-    "db_gamertag": "RSTICK",
-    "similarity": 83.3,
-    "slug": "rstlck__trashed",
-    "post_id": "137710"
-  },
-  {
-    "csv_name": "iBaLi_Greens",
-    "db_gamertag": "iBall_Greens",
-    "similarity": 91.7,
-    "slug": "ibali_greens__trashed",
-    "post_id": "137721"
-  },
-  {
-    "csv_name": "L-DEEZY-i",
-    "db_gamertag": "L-DEEZYY-L",
-    "similarity": 84.2,
-    "slug": "l-deezy-i__trashed",
-    "post_id": "137724"
-  },
-  {
-    "csv_name": "@quisyLV",
-    "db_gamertag": "QuisyLV_",
-    "similarity": 87.5,
-    "slug": "quisylv__trashed",
-    "post_id": "137730"
-  },
-  {
-    "csv_name": "@xoAggie23",
-    "db_gamertag": "xoAggie",
-    "similarity": 82.4,
-    "slug": "xoaggie23__trashed",
-    "post_id": "137731"
-  },
-  {
-    "csv_name": "Slimrettaa",
-    "db_gamertag": "SLIMAETTAA",
-    "similarity": 90.0,
-    "slug": "slimrettaa__trashed",
-    "post_id": "137755"
-  },
-  {
-    "csv_name": "Il PKz",
-    "db_gamertag": "II PKz",
-    "similarity": 83.3,
-    "slug": "il-pkz__trashed",
-    "post_id": "137786"
-  },
-  {
-    "csv_name": "Envywill",
-    "db_gamertag": "envywillx_",
-    "similarity": 88.9,
-    "slug": "envywill__trashed",
-    "post_id": "137811"
-  },
-  {
-    "csv_name": "eyesolate",
-    "db_gamertag": "Eysolate",
-    "similarity": 94.1,
-    "slug": "eyesolate__trashed",
-    "post_id": "137838"
-  },
-  {
-    "csv_name": "lkirilenko",
-    "db_gamertag": "İKIRILENKO:",
-    "similarity": 81.8,
-    "slug": "lkirilenko__trashed",
-    "post_id": "137850"
-  },
-  {
-    "csv_name": "pillzplz",
-    "db_gamertag": "PilPlz",
-    "similarity": 85.7,
-    "slug": "pillzplz__trashed",
-    "post_id": "137851"
-  },
-  {
-    "csv_name": "Glassk",
-    "db_gamertag": "GlassWxrk",
-    "similarity": 80.0,
-    "slug": "glassk__trashed",
-    "post_id": "137852"
-  },
-  {
-    "csv_name": "heartless za",
-    "db_gamertag": "HeartlessZah",
-    "similarity": 91.7,
-    "slug": "heartless-za__trashed",
-    "post_id": "137856"
-  },
-  {
-    "csv_name": "Abluee",
-    "db_gamertag": "Ablueeee",
-    "similarity": 85.7,
-    "slug": "abluee__trashed",
-    "post_id": "137864"
-  },
-  {
-    "csv_name": "unguardabie",
-    "db_gamertag": "Unguardable",
-    "similarity": 90.9,
-    "slug": "unguardabie__trashed",
-    "post_id": "137871"
-  },
-  {
-    "csv_name": "Jboolin",
-    "db_gamertag": "Jboolio",
-    "similarity": 85.7,
-    "slug": "jboolin__trashed",
-    "post_id": "137874"
-  },
-  {
-    "csv_name": "XxBuckey",
-    "db_gamertag": "xBuckeyy",
-    "similarity": 87.5,
-    "slug": "xxbuckey__trashed",
-    "post_id": "137880"
-  },
-  {
-    "csv_name": "WavyWembiidd",
-    "db_gamertag": "WavyyWembiid",
-    "similarity": 91.7,
-    "slug": "wavywembiidd__trashed",
-    "post_id": "137881"
-  },
-  {
-    "csv_name": "Zakychan",
-    "db_gamertag": "zakyychan",
-    "similarity": 94.1,
-    "slug": "zakychan__trashed",
-    "post_id": "137889"
-  },
-  {
-    "csv_name": "Deathtrap",
-    "db_gamertag": "deathtrap905",
-    "similarity": 85.7,
-    "slug": "deathtrap__trashed",
-    "post_id": "137891"
-  },
-  {
-    "csv_name": "Plex",
-    "db_gamertag": "PlexHo",
-    "similarity": 80.0,
-    "slug": "plex__trashed",
-    "post_id": "137903"
-  },
-  {
-    "csv_name": "Agaara",
-    "db_gamertag": "Agaarax",
-    "similarity": 92.3,
-    "slug": "agaara__trashed",
-    "post_id": "137904"
-  },
-  {
-    "csv_name": "NotKilia",
-    "db_gamertag": "NotKilla",
-    "similarity": 87.5,
-    "slug": "notkilia__trashed",
-    "post_id": "137920"
-  },
-  {
-    "csv_name": "Huntoonice",
-    "db_gamertag": "Huntttoonice",
-    "similarity": 90.9,
-    "slug": "huntoonice__trashed",
-    "post_id": "137930"
-  },
-  {
-    "csv_name": "Alsmoove",
-    "db_gamertag": "Alsmoovee",
-    "similarity": 94.1,
-    "slug": "alsmoove__trashed",
-    "post_id": "137941"
-  },
-  {
-    "csv_name": "Lulucciiferrr",
-    "db_gamertag": "Llucciffferrr",
-    "similarity": 84.6,
-    "slug": "lulucciiferrr__trashed",
-    "post_id": "137943"
-  },
-  {
-    "csv_name": "BustnMyskulloty",
-    "db_gamertag": "BustnMyskulltoy",
-    "similarity": 93.3,
-    "slug": "bustnmyskulloty__trashed",
-    "post_id": "137953"
-  },
-  {
-    "csv_name": "Ki1d_Lit",
-    "db_gamertag": "K1d_Kit",
-    "similarity": 80.0,
-    "slug": "ki1d_lit__trashed",
-    "post_id": "137961"
-  },
-  {
-    "csv_name": "IIStainII",
-    "db_gamertag": "IITNII",
-    "similarity": 80.0,
-    "slug": "iistainii__trashed",
-    "post_id": "137962"
-  },
-  {
-    "csv_name": "LoafOfBread",
-    "db_gamertag": "ILoafOfBreadl",
-    "similarity": 91.7,
-    "slug": "loafofbread__trashed",
-    "post_id": "137963"
-  },
-  {
-    "csv_name": "Davxnta",
-    "db_gamertag": "Daxnta",
-    "similarity": 92.3,
-    "slug": "davxnta__trashed",
-    "post_id": "137977"
-  },
-  {
-    "csv_name": "llHvncho",
-    "db_gamertag": "lllllHvncho",
-    "similarity": 84.2,
-    "slug": "llhvncho__trashed",
-    "post_id": "138027"
-  },
-  {
-    "csv_name": "damn_cb",
-    "db_gamertag": "Damnn_CB",
-    "similarity": 93.3,
-    "slug": "damn_cb__trashed",
-    "post_id": "138033"
-  },
-  {
-    "csv_name": "ProamPIayer",
-    "db_gamertag": "ProamPlayer",
-    "similarity": 90.9,
-    "slug": "proampiayer__trashed",
-    "post_id": "138034"
-  },
-  {
-    "csv_name": "llSEANll",
-    "db_gamertag": "lllSEANlll",
-    "similarity": 88.9,
-    "slug": "llseanll__trashed",
-    "post_id": "138035"
-  },
-  {
-    "csv_name": "llKBll",
-    "db_gamertag": "LEKBLL",
-    "similarity": 83.3,
-    "slug": "llkbll__trashed",
-    "post_id": "138041"
-  },
-  {
-    "csv_name": "gazelli-",
-    "db_gamertag": "Gazulli",
-    "similarity": 80.0,
-    "slug": "gazelli__trashed",
-    "post_id": "138044"
-  },
-  {
-    "csv_name": "outyxshyne",
-    "db_gamertag": "outxshyne",
-    "similarity": 94.7,
-    "slug": "outyxshyne__trashed",
-    "post_id": "138046"
-  },
-  {
-    "csv_name": "ikirilenko",
-    "db_gamertag": "İKIRILENKO:",
-    "similarity": 90.9,
-    "slug": "ikirilenko__trashed",
-    "post_id": "138050"
-  },
-  {
-    "csv_name": "drizzygetbusyOI",
-    "db_gamertag": "drizzygetbusy01",
-    "similarity": 86.7,
-    "slug": "drizzygetbusyoi__trashed",
-    "post_id": "138115"
-  },
-  {
-    "csv_name": "MVIrSyN",
-    "db_gamertag": "IVIr SyN",
-    "similarity": 80.0,
-    "slug": "mvirsyn__trashed",
-    "post_id": "138159"
-  },
-  {
-    "csv_name": "wavvyxxll",
-    "db_gamertag": "WavvyXXl",
-    "similarity": 94.1,
-    "slug": "wavvyxxll__trashed",
-    "post_id": "138180"
-  },
-  {
-    "csv_name": "DefensivelstTeam",
-    "db_gamertag": "Defensive1stTeam",
-    "similarity": 93.8,
-    "slug": "defensivelstteam__trashed",
-    "post_id": "138210"
-  },
-  {
-    "csv_name": "LeThatsRightJP",
-    "db_gamertag": "IKnoThatsRightJP",
-    "similarity": 80.0,
-    "slug": "lethatsrightjp__trashed",
-    "post_id": "138249"
-  },
-  {
-    "csv_name": "ResentChris",
-    "db_gamertag": "Recentchris",
-    "similarity": 90.9,
-    "slug": "resentchris__trashed",
-    "post_id": "138528"
-  },
-  {
-    "csv_name": "Clampeyss",
-    "db_gamertag": "Clampeysll",
-    "similarity": 84.2,
-    "slug": "clampeyss__trashed",
-    "post_id": "138576"
-  },
-  {
-    "csv_name": "justsill",
-    "db_gamertag": "JustStill",
-    "similarity": 94.1,
-    "slug": "justsill__trashed",
-    "post_id": "138598"
-  },
-  {
-    "csv_name": "Drowzyy",
-    "db_gamertag": "drowzyxx",
-    "similarity": 80.0,
-    "slug": "drowzyy__trashed",
-    "post_id": "138680"
-  },
-  {
-    "csv_name": "WTF_ZAHID",
-    "db_gamertag": "WTFL ZAHID",
-    "similarity": 84.2,
-    "slug": "wtf_zahid__trashed",
-    "post_id": "138705"
-  },
-  {
-    "csv_name": "luvamarl",
-    "db_gamertag": "LuvAmari",
-    "similarity": 87.5,
-    "slug": "luvamarl__trashed",
-    "post_id": "138751"
-  },
-  {
-    "csv_name": "BIlRON",
-    "db_gamertag": "BIIRON",
-    "similarity": 83.3,
-    "slug": "bilron__trashed",
-    "post_id": "138759"
-  },
-  {
-    "csv_name": "TiGeR_lRls",
-    "db_gamertag": "TiGeR_IRls",
-    "similarity": 90.0,
-    "slug": "tiger_lrls__trashed",
-    "post_id": "138771"
-  },
-  {
-    "csv_name": "IINocII",
-    "db_gamertag": "IINII",
-    "similarity": 83.3,
-    "slug": "iinocii__trashed",
-    "post_id": "138787"
-  },
-  {
-    "csv_name": "Vmomooo_",
-    "db_gamertag": "iMomooo_",
-    "similarity": 87.5,
-    "slug": "vmomooo___trashed",
-    "post_id": "138791"
-  },
-  {
-    "csv_name": "ATAARDAX",
-    "db_gamertag": "Agaarax",
-    "similarity": 80.0,
-    "slug": "ataardax__trashed",
-    "post_id": "138800"
-  },
-  {
-    "csv_name": "Laidbacsv",
-    "db_gamertag": "Laidbacksv",
-    "similarity": 94.7,
-    "slug": "laidbacsv__trashed",
-    "post_id": "138867"
-  },
-  {
-    "csv_name": "Beav",
-    "db_gamertag": "Ilbeav",
-    "similarity": 80.0,
-    "slug": "beav__trashed",
-    "post_id": "138873"
-  },
-  {
-    "csv_name": "nilCZelos",
-    "db_gamertag": "niiCZelos",
-    "similarity": 88.9,
-    "slug": "nilczelos__trashed",
-    "post_id": "138936"
-  },
-  {
-    "csv_name": "Jitney lke",
-    "db_gamertag": "Jitney Ike",
-    "similarity": 90.0,
-    "slug": "jitney-lke__trashed",
-    "post_id": "138945"
-  },
-  {
-    "csv_name": "I2kisgarbagel",
-    "db_gamertag": "l2kisgarbagel",
-    "similarity": 92.3,
-    "slug": "i2kisgarbagel__trashed",
-    "post_id": "139004"
-  },
-  {
-    "csv_name": "BRONX 718",
-    "db_gamertag": "BR0NX 718",
-    "similarity": 88.9,
-    "slug": "bronx-718__trashed",
-    "post_id": "139007"
-  },
-  {
-    "csv_name": "SOBxSEID",
-    "db_gamertag": "S0BxSEID",
-    "similarity": 87.5,
-    "slug": "sobxseid__trashed",
-    "post_id": "139008"
-  },
-  {
-    "csv_name": "SOBxPOUNDCAKE",
-    "db_gamertag": "S0BxPOUNDCAKE",
-    "similarity": 92.3,
-    "slug": "sobxpoundcake__trashed",
-    "post_id": "139009"
-  },
-  {
-    "csv_name": "RetumofJaden_",
-    "db_gamertag": "ReturnofJaden_",
-    "similarity": 88.9,
-    "slug": "retumofjaden___trashed",
-    "post_id": "139091"
-  },
-  {
-    "csv_name": "KelseyPlum",
-    "db_gamertag": "kelseypIum",
-    "similarity": 90.0,
-    "slug": "kelseyplum__trashed",
-    "post_id": "139103"
-  },
-  {
-    "csv_name": "lmFlo2kTTV",
-    "db_gamertag": "ImFlo2k TTV",
-    "similarity": 85.7,
-    "slug": "lmflo2kttv__trashed",
-    "post_id": "139182"
-  },
-  {
-    "csv_name": "ZeErO.Jaja",
-    "db_gamertag": "ZeErO_Jaja",
-    "similarity": 90.0,
-    "slug": "zeero-jaja__trashed",
-    "post_id": "139272"
-  },
-  {
-    "csv_name": "VantaSlidinAI",
-    "db_gamertag": "VantaSlidinA1",
-    "similarity": 92.3,
-    "slug": "vantaslidinai__trashed",
-    "post_id": "139273"
-  },
-  {
-    "csv_name": "Saucyll",
-    "db_gamertag": "IISaucyll",
-    "similarity": 87.5,
-    "slug": "saucyll__trashed",
-    "post_id": "139344"
-  },
-  {
-    "csv_name": "Casimigosss",
-    "db_gamertag": "Casimigos",
-    "similarity": 90.0,
-    "slug": "casimigosss__trashed",
-    "post_id": "139663"
-  },
-  {
-    "csv_name": "Soutxshyne",
-    "db_gamertag": "outxshyne",
-    "similarity": 94.7,
-    "slug": "soutxshyne__trashed",
-    "post_id": "139690"
-  },
-  {
-    "csv_name": "IScumz-",
-    "db_gamertag": "lScumz-",
-    "similarity": 85.7,
-    "slug": "iscumz__trashed",
-    "post_id": "139701"
-  },
-  {
-    "csv_name": "MixTape I",
-    "db_gamertag": "l MixTape l",
-    "similarity": 80.0,
-    "slug": "mixtape-i__trashed",
-    "post_id": "139745"
-  },
-  {
-    "csv_name": "ISolDd3m",
-    "db_gamertag": "lSolDd3m",
-    "similarity": 87.5,
-    "slug": "isoldd3m__trashed",
-    "post_id": "139746"
-  },
-  {
-    "csv_name": "ILoafOfBreadI",
-    "db_gamertag": "ILoafOfBreadl",
-    "similarity": 92.3,
-    "slug": "iloafofbreadi__trashed",
-    "post_id": "139778"
-  },
-  {
-    "csv_name": "IIDavoll",
-    "db_gamertag": "IIDevoll",
-    "similarity": 87.5,
-    "slug": "iidavoll__trashed",
-    "post_id": "139829"
-  },
-  {
-    "csv_name": "HansenCarolinelO",
-    "db_gamertag": "HansonCaroline10",
-    "similarity": 81.2,
-    "slug": "hansencarolinelo__trashed",
-    "post_id": "139848"
-  },
-  {
-    "csv_name": "SOBxThabeseva",
-    "db_gamertag": "S0BxTHABE5EVA",
-    "similarity": 84.6,
-    "slug": "sobxthabeseva__trashed",
-    "post_id": "139882"
-  },
-  {
-    "csv_name": "Duffyszn",
-    "db_gamertag": "Duffyszn2k",
-    "similarity": 88.9,
-    "slug": "duffyszn__trashed",
-    "post_id": "139934"
-  },
-  {
-    "csv_name": "BoxOutBaOa",
-    "db_gamertag": "BoxOutBaba",
-    "similarity": 90.0,
-    "slug": "boxoutbaoa__trashed",
-    "post_id": "140423"
-  },
-  {
-    "csv_name": "FtiMMVI",
-    "db_gamertag": "EtiMMVI",
-    "similarity": 85.7,
-    "slug": "ftimmvi__trashed",
-    "post_id": "140424"
-  },
-  {
-    "csv_name": "SKIII",
-    "db_gamertag": "xSK III",
-    "similarity": 83.3,
-    "slug": "skiii__trashed",
-    "post_id": "140532"
-  },
-  {
-    "csv_name": "sakueva_",
-    "db_gamertag": "Osakueva",
-    "similarity": 87.5,
-    "slug": "sakueva___trashed",
-    "post_id": "140578"
-  },
-  {
-    "csv_name": "WalkingBucket",
-    "db_gamertag": "A WalkingBucket_",
-    "similarity": 89.7,
-    "slug": "walkingbucket__trashed",
-    "post_id": "140579"
-  },
-  {
-    "csv_name": "AIIForPayne",
-    "db_gamertag": "AllForPayne",
-    "similarity": 81.8,
-    "slug": "aiiforpayne__trashed",
-    "post_id": "141014"
-  },
-  {
-    "csv_name": "WinsGoatedx",
-    "db_gamertag": "WinssGoated-",
-    "similarity": 87.0,
-    "slug": "winsgoatedx__trashed",
-    "post_id": "141268"
-  },
-  {
-    "csv_name": "vMostHtd",
-    "db_gamertag": "vmosthd",
-    "similarity": 93.3,
-    "slug": "vmosthtd__trashed",
-    "post_id": "141478"
-  },
-  {
-    "csv_name": "Prayers",
-    "db_gamertag": "IllPrayers",
-    "similarity": 82.4,
-    "slug": "prayers__trashed",
-    "post_id": "141573"
-  },
-  {
-    "csv_name": "Memoq",
-    "db_gamertag": "Memeq",
-    "similarity": 80.0,
-    "slug": "memoq__trashed",
-    "post_id": "141708"
-  },
-  {
-    "csv_name": "Really Trxpp",
-    "db_gamertag": "Reallytrxp",
-    "similarity": 90.9,
-    "slug": "really-trxpp__trashed",
-    "post_id": "144209"
   }
 ]

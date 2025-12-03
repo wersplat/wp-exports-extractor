@@ -33,9 +33,9 @@ def compare_names(csv_file, db_gamertags):
         reader = csv.DictReader(f)
         for row in reader:
             slug = row.get('slug', '')
-            # Previously skipped trashed players, but user wants to catch them now
-            # if '__trashed' in slug:
-            #    continue
+            # Skip players with slugs containing "__trashed"
+            if '__trashed' in slug:
+                continue
             name = row.get('name', '').strip()
             if name and name != '.':
                 csv_players[name] = {

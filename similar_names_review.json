@@ -106,7 +106,7 @@
   },
   {
     "csv_name": "Chris kickz",
-    "db_gamertag": "ChrisKickz",
+    "db_gamertag": "Chriskickz",
     "similarity": 95.2,
     "slug": "chris-kickz",
     "post_id": "143704"
@@ -217,11 +217,11 @@
     "post_id": "143395"
   },
   {
-    "csv_name": "Gothum",
-    "db_gamertag": "Gohthum",
+    "csv_name": "Gohthum",
+    "db_gamertag": "Gothum",
     "similarity": 92.3,
-    "slug": "gothum",
-    "post_id": "143354"
+    "slug": "gohthum",
+    "post_id": "137817"
   },
   {
     "csv_name": "HansonCaroline10",
@@ -679,18 +679,18 @@
     "post_id": "143351"
   },
   {
+    "csv_name": "Really Trxpp",
+    "db_gamertag": "reallytrxp",
+    "similarity": 90.9,
+    "slug": "really-trxpp",
+    "post_id": "144209"
+  },
+  {
     "csv_name": "Reallyhim",
     "db_gamertag": "Really Himm",
     "similarity": 90.0,
     "slug": "reallyhim",
     "post_id": "143649"
-  },
-  {
-    "csv_name": "Reallytrxp",
-    "db_gamertag": "Really Trxpp",
-    "similarity": 90.9,
-    "slug": "reallytrxp",
-    "post_id": "137253"
   },
   {
     "csv_name": "RebelsKickIt",
@@ -708,7 +708,7 @@
   },
   {
     "csv_name": "Repowrld_",
-    "db_gamertag": "RepoWrld-",
+    "db_gamertag": "Repowrld-",
     "similarity": 88.9,
     "slug": "repowrld_",
     "post_id": "143848"

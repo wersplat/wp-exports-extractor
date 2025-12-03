@@ -49,8 +49,8 @@ UPDATE players SET gamertag = 'Cemnn' WHERE LOWER(gamertag) = LOWER('Cemn');
 -- Similarity: 93.3% | DB: 'ChicagoStreetz_' -> CSV: 'ChicagoStreetz-'
 UPDATE players SET gamertag = 'ChicagoStreetz-' WHERE LOWER(gamertag) = LOWER('ChicagoStreetz_');
 
--- Similarity: 95.2% | DB: 'ChrisKickz' -> CSV: 'Chris kickz'
-UPDATE players SET gamertag = 'Chris kickz' WHERE LOWER(gamertag) = LOWER('ChrisKickz');
+-- Similarity: 95.2% | DB: 'Chriskickz' -> CSV: 'Chris kickz'
+UPDATE players SET gamertag = 'Chris kickz' WHERE LOWER(gamertag) = LOWER('Chriskickz');
 
 -- Similarity: 88.9% | DB: 'CLAMPEYS' -> CSV: 'Clampeysll'
 UPDATE players SET gamertag = 'Clampeysll' WHERE LOWER(gamertag) = LOWER('CLAMPEYS');
@@ -97,8 +97,8 @@ UPDATE players SET gamertag = 'Flac0__0' WHERE LOWER(gamertag) = LOWER('Flac0_0'
 -- Similarity: 90.9% | DB: 'xGodSentMelx' -> CSV: 'GodSentMel'
 UPDATE players SET gamertag = 'GodSentMel' WHERE LOWER(gamertag) = LOWER('xGodSentMelx');
 
--- Similarity: 92.3% | DB: 'Gohthum' -> CSV: 'Gothum'
-UPDATE players SET gamertag = 'Gothum' WHERE LOWER(gamertag) = LOWER('Gohthum');
+-- Similarity: 92.3% | DB: 'Gothum' -> CSV: 'Gohthum'
+UPDATE players SET gamertag = 'Gohthum' WHERE LOWER(gamertag) = LOWER('Gothum');
 
 -- Similarity: 93.8% | DB: 'HansenCaroline10' -> CSV: 'HansonCaroline10'
 UPDATE players SET gamertag = 'HansonCaroline10' WHERE LOWER(gamertag) = LOWER('HansenCaroline10');
@@ -220,14 +220,9 @@ UPDATE players SET gamertag = 'llfamtygll' WHERE LOWER(gamertag) = LOWER('IlFamT
 -- Similarity: 84.2% | DB: 'llllllllll1' -> CSV: 'lllllll1'
 UPDATE players SET gamertag = 'lllllll1' WHERE LOWER(gamertag) = LOWER('llllllllll1');
 
--- Similarity: 80.0% | DB: 'llllllllll1' -> CSV: 'llllzllll'
-UPDATE players SET gamertag = 'llllzllll' WHERE LOWER(gamertag) = LOWER('llllllllll1');
-
 -- Similarity: 84.6% | DB: 'IIPushinTeell' -> CSV: 'llPushinTeell'
 UPDATE players SET gamertag = 'llPushinTeell' WHERE LOWER(gamertag) = LOWER('IIPushinTeell');
 
--- Similarity: 87.0% | DB: 'Llucciferr' -> CSV: 'Llucciffferrr'
-UPDATE players SET gamertag = 'Llucciffferrr' WHERE LOWER(gamertag) = LOWER('Llucciferr');
 
 -- Similarity: 90.9% | DB: 'Llucciferr' -> CSV: 'Llucciiferrr'
 UPDATE players SET gamertag = 'Llucciiferrr' WHERE LOWER(gamertag) = LOWER('Llucciferr');
@@ -298,17 +293,14 @@ UPDATE players SET gamertag = 'R1 oSaints' WHERE LOWER(gamertag) = LOWER('R1oSai
 -- Similarity: 90.0% | DB: 'Really Himm' -> CSV: 'Reallyhim'
 UPDATE players SET gamertag = 'Reallyhim' WHERE LOWER(gamertag) = LOWER('Really Himm');
 
--- Similarity: 90.9% | DB: 'Really Trxpp' -> CSV: 'Reallytrxp'
-UPDATE players SET gamertag = 'Reallytrxp' WHERE LOWER(gamertag) = LOWER('Really Trxpp');
-
 -- Similarity: 91.7% | DB: 'RebelsKicklt' -> CSV: 'RebelsKickIt'
 UPDATE players SET gamertag = 'RebelsKickIt' WHERE LOWER(gamertag) = LOWER('RebelsKicklt');
 
 -- Similarity: 90.9% | DB: 'ResentChris' -> CSV: 'Recentchris'
 UPDATE players SET gamertag = 'Recentchris' WHERE LOWER(gamertag) = LOWER('ResentChris');
 
--- Similarity: 88.9% | DB: 'RepoWrld-' -> CSV: 'Repowrld_'
-UPDATE players SET gamertag = 'Repowrld_' WHERE LOWER(gamertag) = LOWER('RepoWrld-');
+-- Similarity: 88.9% | DB: 'Repowrld-' -> CSV: 'Repowrld_'
+UPDATE players SET gamertag = 'Repowrld_' WHERE LOWER(gamertag) = LOWER('Repowrld-');
 
 -- Similarity: 80.0% | DB: 'Sinnerz II' -> CSV: 'Sinnerz ll'
 UPDATE players SET gamertag = 'Sinnerz ll' WHERE LOWER(gamertag) = LOWER('Sinnerz II');

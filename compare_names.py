@@ -16,24 +16,26 @@ def similarity(a, b):
 
 
 def normalize_name(name):
-    """Normalize name for comparison (lowercase, strip whitespace)."""
+    """Normalize name for comparison (lowercase, remove all spaces and special formatting)."""
     if not name:
         return ""
-    return name.strip().lower()
+    # Remove all spaces and convert to lowercase for comparison
+    # This allows "lvlr Syn" to match "LVLrSyn" as a case difference
+    return name.replace(' ', '').replace('-', '').replace('_', '').strip().lower()
 
 
 def compare_names(csv_file, db_gamertags):
     """Compare CSV player names with database gamertags."""
     
-    # Read CSV players (excluding trashed players)
+    # Read CSV players
     csv_players = {}
     with open(csv_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             slug = row.get('slug', '')
-            # Skip players with slugs containing "__trashed"
-            if '__trashed' in slug:
-                continue
+            # Previously skipped trashed players, but user wants to catch them now
+            # if '__trashed' in slug:
+            #    continue
             name = row.get('name', '').strip()
             if name and name != '.':
                 csv_players[name] = {
@@ -85,13 +87,23 @@ def compare_names(csv_file, db_gamertags):
                     best_match = db_gt
             
             if best_match:
-                similar_names.append({
-                    'csv_name': csv_name,
-                    'db_gamertag': best_match,
-                    'similarity': round(best_similarity * 100, 1),
-                    'slug': csv_data['slug'],
-                    'post_id': csv_data['post_id'],
-                })
+                # If similarity is 95% or higher, treat as case difference (safe to update)
+                if best_similarity >= 0.95:
+                    case_differences.append({
+                        'csv_name': csv_name,
+                        'db_gamertag': best_match,
+                        'slug': csv_data['slug'],
+                        'post_id': csv_data['post_id'],
+                    })
+                else:
+                    # Lower similarity requires manual review
+                    similar_names.append({
+                        'csv_name': csv_name,
+                        'db_gamertag': best_match,
+                        'similarity': round(best_similarity * 100, 1),
+                        'slug': csv_data['slug'],
+                        'post_id': csv_data['post_id'],
+                    })
             else:
                 csv_only.append({
                     'csv_name': csv_name,

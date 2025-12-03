@@ -4964,7 +4964,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "12"
+        "13"
       ]
     }
   },
@@ -7688,7 +7688,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "13"
+        "14"
       ]
     }
   },
@@ -13011,7 +13011,7 @@
         "143460"
       ],
       "ekit_post_views_count": [
-        "17"
+        "18"
       ],
       "sp_nationality": [
         ""
@@ -13527,7 +13527,7 @@
         "143346"
       ],
       "ekit_post_views_count": [
-        "15"
+        "16"
       ],
       "sp_nationality": [
         ""
@@ -19645,7 +19645,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "3"
+        "4"
       ]
     }
   },
@@ -33282,7 +33282,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "2"
+        "3"
       ]
     }
   },
@@ -33398,7 +33398,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "2"
+        "3"
       ]
     }
   },
@@ -51788,7 +51788,7 @@
         ""
       ],
       "ekit_post_views_count": [
-        "3"
+        "4"
       ]
     }
   },
@@ -52746,6 +52746,196 @@
     }
   },
   {
+    "name": "llJMAR",
+    "url": "https://hof-league.com/?post_type=sp_player&p=124041",
+    "post_id": "124041",
+    "post_date": "2024-09-27 11:05:08",
+    "post_modified": "2025-11-22 17:29:20",
+    "slug": "lljmar__trashed",
+    "status": "trash",
+    "positions": [
+      {
+        "nicename": "lk",
+        "name": "LK"
+      },
+      {
+        "nicename": "sf",
+        "name": "SF"
+      }
+    ],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-30",
+        "name": "SEASON 30"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "84781",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "84781",
+      "84781",
+      "84781"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "84781",
+        "84781",
+        "84781"
+      ],
+      "sp_current_team": [
+        "84781"
+      ],
+      "sp_nationality": [
+        ""
+      ],
+      "ekit_post_views_count": [
+        "71"
+      ]
+    }
+  },
+  {
+    "name": "P7Precise",
+    "url": "https://hof-league.com/?post_type=sp_player&p=124043",
+    "post_id": "124043",
+    "post_date": "2024-09-27 11:05:08",
+    "post_modified": "2025-11-22 17:29:20",
+    "slug": "p7precise__trashed",
+    "status": "trash",
+    "positions": [
+      {
+        "nicename": "pg",
+        "name": "PG"
+      }
+    ],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-30",
+        "name": "SEASON 30"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "84781",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "84781",
+      "84781",
+      "84781"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "84781",
+        "84781",
+        "84781"
+      ],
+      "sp_current_team": [
+        "84781"
+      ],
+      "sp_nationality": [
+        ""
+      ],
+      "ekit_post_views_count": [
+        "90"
+      ]
+    }
+  },
+  {
+    "name": "CPTN HO0K",
+    "url": "https://hof-league.com/?post_type=sp_player&p=124089",
+    "post_id": "124089",
+    "post_date": "2024-09-27 11:06:38",
+    "post_modified": "2025-11-22 17:29:20",
+    "slug": "cptn-ho0k__trashed",
+    "status": "trash",
+    "positions": [
+      {
+        "nicename": "c",
+        "name": "C"
+      }
+    ],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-30",
+        "name": "SEASON 30"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "124088",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "124088",
+      "124088",
+      "124088"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "124088",
+        "124088",
+        "124088"
+      ],
+      "sp_current_team": [
+        "124088"
+      ],
+      "sp_nationality": [
+        ""
+      ],
+      "ekit_post_views_count": [
+        "62"
+      ]
+    }
+  },
+  {
     "name": "ActiveYogaa",
     "url": "https://hof-league.com/player/activeyogaa/",
     "post_id": "144147",
@@ -53612,337 +53802,6 @@
       ],
       "ekit_post_views_count": [
         "5"
-      ]
-    }
-  },
-  {
-    "name": "IVIr SyN",
-    "url": "https://hof-league.com/player/ivir-syn/",
-    "post_id": "144206",
-    "post_date": "2025-12-02 19:54:47",
-    "post_modified": "2025-12-02 19:54:47",
-    "slug": "ivir-syn",
-    "status": "publish",
-    "positions": [],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-31",
-        "name": "SEASON 31"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "73160",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "73160"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "73160"
-      ],
-      "sp_current_team": [
-        "73160"
-      ]
-    }
-  },
-  {
-    "name": "o iHOOP5 o",
-    "url": "https://hof-league.com/player/o-ihoop5-o/",
-    "post_id": "144207",
-    "post_date": "2025-12-02 19:54:47",
-    "post_modified": "2025-12-02 19:54:47",
-    "slug": "o-ihoop5-o",
-    "status": "publish",
-    "positions": [],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-31",
-        "name": "SEASON 31"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "73160",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "73160"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "73160"
-      ],
-      "sp_current_team": [
-        "73160"
-      ]
-    }
-  },
-  {
-    "name": "Really Trxpp",
-    "url": "https://hof-league.com/player/really-trxpp/",
-    "post_id": "144209",
-    "post_date": "2025-12-02 19:54:47",
-    "post_modified": "2025-12-02 19:54:47",
-    "slug": "really-trxpp",
-    "status": "publish",
-    "positions": [],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-31",
-        "name": "SEASON 31"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "73304",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "73304"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "73304"
-      ],
-      "sp_current_team": [
-        "73304"
-      ]
-    }
-  },
-  {
-    "name": "llJMAR",
-    "url": "https://hof-league.com/?post_type=sp_player&p=124041",
-    "post_id": "124041",
-    "post_date": "2024-09-27 11:05:08",
-    "post_modified": "2025-11-22 17:29:20",
-    "slug": "lljmar__trashed",
-    "status": "trash",
-    "positions": [
-      {
-        "nicename": "lk",
-        "name": "LK"
-      },
-      {
-        "nicename": "sf",
-        "name": "SF"
-      }
-    ],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-30",
-        "name": "SEASON 30"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "84781",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "84781",
-      "84781",
-      "84781"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "84781",
-        "84781",
-        "84781"
-      ],
-      "sp_current_team": [
-        "84781"
-      ],
-      "sp_nationality": [
-        ""
-      ],
-      "ekit_post_views_count": [
-        "71"
-      ]
-    }
-  },
-  {
-    "name": "P7Precise",
-    "url": "https://hof-league.com/?post_type=sp_player&p=124043",
-    "post_id": "124043",
-    "post_date": "2024-09-27 11:05:08",
-    "post_modified": "2025-11-22 17:29:20",
-    "slug": "p7precise__trashed",
-    "status": "trash",
-    "positions": [
-      {
-        "nicename": "pg",
-        "name": "PG"
-      }
-    ],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-30",
-        "name": "SEASON 30"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "84781",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "84781",
-      "84781",
-      "84781"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "84781",
-        "84781",
-        "84781"
-      ],
-      "sp_current_team": [
-        "84781"
-      ],
-      "sp_nationality": [
-        ""
-      ],
-      "ekit_post_views_count": [
-        "90"
-      ]
-    }
-  },
-  {
-    "name": "CPTN HO0K",
-    "url": "https://hof-league.com/?post_type=sp_player&p=124089",
-    "post_id": "124089",
-    "post_date": "2024-09-27 11:06:38",
-    "post_modified": "2025-11-22 17:29:20",
-    "slug": "cptn-ho0k__trashed",
-    "status": "trash",
-    "positions": [
-      {
-        "nicename": "c",
-        "name": "C"
-      }
-    ],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-30",
-        "name": "SEASON 30"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "124088",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "124088",
-      "124088",
-      "124088"
-    ],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {
-      "_sp_import": [
-        "1"
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_team": [
-        "124088",
-        "124088",
-        "124088"
-      ],
-      "sp_current_team": [
-        "124088"
-      ],
-      "sp_nationality": [
-        ""
-      ],
-      "ekit_post_views_count": [
-        "62"
       ]
     }
   },
@@ -117108,65 +116967,6 @@
     }
   },
   {
-    "name": "Sin Aire",
-    "url": "https://hof-league.com/?post_type=sp_player&p=140644",
-    "post_id": "140644",
-    "post_date": "2025-10-10 01:40:20",
-    "post_modified": "2025-11-22 17:24:38",
-    "slug": "sin-aire__trashed",
-    "status": "trash",
-    "positions": [],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-30",
-        "name": "SEASON 30"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "68995",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "68995"
-    ],
-    "metrics": "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}",
-    "leagues_meta": "a:0:{}",
-    "statistics": "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}",
-    "assignments": "",
-    "all_meta": {
-      "sp_twitter": [
-        ""
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_metrics": [
-        "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}"
-      ],
-      "sp_leagues": [
-        "a:0:{}"
-      ],
-      "sp_statistics": [
-        "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}"
-      ],
-      "sp_current_team": [
-        "68995"
-      ],
-      "sp_team": [
-        "68995"
-      ],
-      "ekit_post_views_count": [
-        "17"
-      ]
-    }
-  },
-  {
     "name": "xvParis",
     "url": "https://hof-league.com/?post_type=sp_player&p=140645",
     "post_id": "140645",
@@ -117281,6 +117081,65 @@
       ],
       "ekit_post_views_count": [
         "15"
+      ]
+    }
+  },
+  {
+    "name": "Sin Aire",
+    "url": "https://hof-league.com/?post_type=sp_player&p=140644",
+    "post_id": "140644",
+    "post_date": "2025-10-10 01:40:20",
+    "post_modified": "2025-11-22 17:24:38",
+    "slug": "sin-aire__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-30",
+        "name": "SEASON 30"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "68995",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "68995"
+    ],
+    "metrics": "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}",
+    "leagues_meta": "a:0:{}",
+    "statistics": "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}",
+    "assignments": "",
+    "all_meta": {
+      "sp_twitter": [
+        ""
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_metrics": [
+        "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}"
+      ],
+      "sp_leagues": [
+        "a:0:{}"
+      ],
+      "sp_statistics": [
+        "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}"
+      ],
+      "sp_current_team": [
+        "68995"
+      ],
+      "sp_team": [
+        "68995"
+      ],
+      "ekit_post_views_count": [
+        "17"
       ]
     }
   },
@@ -122896,65 +122755,6 @@
     }
   },
   {
-    "name": "MarkMorant",
-    "url": "https://hof-league.com/?post_type=sp_player&p=141740",
-    "post_id": "141740",
-    "post_date": "2025-10-15 06:26:03",
-    "post_modified": "2025-11-22 17:24:25",
-    "slug": "markmorant__trashed",
-    "status": "trash",
-    "positions": [],
-    "leagues": [
-      {
-        "nicename": "hof-league",
-        "name": "HOF League"
-      }
-    ],
-    "seasons": [
-      {
-        "nicename": "season-30",
-        "name": "SEASON 30"
-      }
-    ],
-    "jersey_number": "",
-    "current_team_id": "125456",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [
-      "125456"
-    ],
-    "metrics": "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}",
-    "leagues_meta": "a:1:{i:1459;a:1:{i:1573;i:-1;}}",
-    "statistics": "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}",
-    "assignments": "",
-    "all_meta": {
-      "sp_twitter": [
-        ""
-      ],
-      "sp_number": [
-        ""
-      ],
-      "sp_metrics": [
-        "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}"
-      ],
-      "sp_leagues": [
-        "a:1:{i:1459;a:1:{i:1573;i:-1;}}"
-      ],
-      "sp_statistics": [
-        "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}"
-      ],
-      "sp_current_team": [
-        "125456"
-      ],
-      "sp_team": [
-        "125456"
-      ],
-      "ekit_post_views_count": [
-        "12"
-      ]
-    }
-  },
-  {
     "name": "Your In Box",
     "url": "https://hof-league.com/?post_type=sp_player&p=141739",
     "post_id": "141739",
@@ -123010,6 +122810,65 @@
       ],
       "ekit_post_views_count": [
         "11"
+      ]
+    }
+  },
+  {
+    "name": "MarkMorant",
+    "url": "https://hof-league.com/?post_type=sp_player&p=141740",
+    "post_id": "141740",
+    "post_date": "2025-10-15 06:26:03",
+    "post_modified": "2025-11-22 17:24:25",
+    "slug": "markmorant__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-30",
+        "name": "SEASON 30"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "125456",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "125456"
+    ],
+    "metrics": "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}",
+    "leagues_meta": "a:1:{i:1459;a:1:{i:1573;i:-1;}}",
+    "statistics": "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}",
+    "assignments": "",
+    "all_meta": {
+      "sp_twitter": [
+        ""
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_metrics": [
+        "a:2:{s:6:\"height\";s:0:\"\";s:6:\"weight\";s:0:\"\";}"
+      ],
+      "sp_leagues": [
+        "a:1:{i:1459;a:1:{i:1573;i:-1;}}"
+      ],
+      "sp_statistics": [
+        "a:1:{i:1459;a:2:{i:0;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}i:1573;a:22:{s:3:\"pts\";s:0:\"\";s:3:\"def\";s:0:\"\";s:3:\"ast\";s:0:\"\";s:3:\"stl\";s:0:\"\";s:3:\"blk\";s:0:\"\";s:2:\"pf\";s:0:\"\";s:2:\"to\";s:0:\"\";s:3:\"fgm\";s:0:\"\";s:9:\"fgpercent\";s:0:\"\";s:3:\"fga\";s:0:\"\";s:7:\"threepm\";s:0:\"\";s:7:\"threepa\";s:0:\"\";s:13:\"threeppercent\";s:0:\"\";s:1:\"g\";s:0:\"\";s:2:\"gs\";s:0:\"\";s:9:\"ftpercent\";s:0:\"\";s:3:\"rpg\";s:0:\"\";s:3:\"apg\";s:0:\"\";s:3:\"spg\";s:0:\"\";s:3:\"bpg\";s:0:\"\";s:3:\"ppg\";s:0:\"\";s:3:\"eff\";s:0:\"\";}}}"
+      ],
+      "sp_current_team": [
+        "125456"
+      ],
+      "sp_team": [
+        "125456"
+      ],
+      "ekit_post_views_count": [
+        "12"
       ]
     }
   },
@@ -124259,28 +124118,6 @@
     }
   },
   {
-    "name": "a",
-    "url": "https://hof-league.com/?post_type=sp_player&p=142029",
-    "post_id": "142029",
-    "post_date": "2025-11-22 17:24:24",
-    "post_modified": "2025-11-22 17:24:24",
-    "slug": "__trashed",
-    "status": "trash",
-    "positions": [],
-    "leagues": [],
-    "seasons": [],
-    "jersey_number": "",
-    "current_team_id": "",
-    "nationality": "",
-    "twitter": "",
-    "team_ids": [],
-    "metrics": "",
-    "leagues_meta": "",
-    "statistics": "",
-    "assignments": "",
-    "all_meta": {}
-  },
-  {
     "name": "alpakoo",
     "url": "https://hof-league.com/?post_type=sp_player&p=142030",
     "post_id": "142030",
@@ -124338,6 +124175,28 @@
         "16"
       ]
     }
+  },
+  {
+    "name": "a",
+    "url": "https://hof-league.com/?post_type=sp_player&p=142029",
+    "post_id": "142029",
+    "post_date": "2025-11-22 17:24:24",
+    "post_modified": "2025-11-22 17:24:24",
+    "slug": "__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [],
+    "seasons": [],
+    "jersey_number": "",
+    "current_team_id": "",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {}
   },
   {
     "name": "xUnKnownLT-",
@@ -124926,6 +124785,147 @@
       ],
       "ekit_post_views_count": [
         "24"
+      ]
+    }
+  },
+  {
+    "name": "IVIr SyN",
+    "url": "https://hof-league.com/?post_type=sp_player&p=144206",
+    "post_id": "144206",
+    "post_date": "2025-12-02 19:54:47",
+    "post_modified": "2025-12-02 21:08:40",
+    "slug": "ivir-syn__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-31",
+        "name": "SEASON 31"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "73160",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "73160"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "73160"
+      ],
+      "sp_current_team": [
+        "73160"
+      ]
+    }
+  },
+  {
+    "name": "o iHOOP5 o",
+    "url": "https://hof-league.com/?post_type=sp_player&p=144207",
+    "post_id": "144207",
+    "post_date": "2025-12-02 19:54:47",
+    "post_modified": "2025-12-02 21:08:40",
+    "slug": "o-ihoop5-o__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-31",
+        "name": "SEASON 31"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "73160",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "73160"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "73160"
+      ],
+      "sp_current_team": [
+        "73160"
+      ]
+    }
+  },
+  {
+    "name": "Really Trxpp",
+    "url": "https://hof-league.com/?post_type=sp_player&p=144209",
+    "post_id": "144209",
+    "post_date": "2025-12-02 19:54:47",
+    "post_modified": "2025-12-02 21:08:41",
+    "slug": "really-trxpp__trashed",
+    "status": "trash",
+    "positions": [],
+    "leagues": [
+      {
+        "nicename": "hof-league",
+        "name": "HOF League"
+      }
+    ],
+    "seasons": [
+      {
+        "nicename": "season-31",
+        "name": "SEASON 31"
+      }
+    ],
+    "jersey_number": "",
+    "current_team_id": "73304",
+    "nationality": "",
+    "twitter": "",
+    "team_ids": [
+      "73304"
+    ],
+    "metrics": "",
+    "leagues_meta": "",
+    "statistics": "",
+    "assignments": "",
+    "all_meta": {
+      "_sp_import": [
+        "1"
+      ],
+      "sp_number": [
+        ""
+      ],
+      "sp_team": [
+        "73304"
+      ],
+      "sp_current_team": [
+        "73304"
       ]
     }
   }
